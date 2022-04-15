@@ -25,13 +25,13 @@ We will continue to participate in future Hackathons/Makeathons and hope to win 
 **Course Projects**
 <ul>
   <li>
-    <a href="https://github.com/jackitaliano/Battleship" target="_blank" rel="noopener   noreferrer"><i>Battleship</i></a>: <br/>
-    I wrote the entirety of our project for my Engineering 1181 class and received the highest marks of any team in our course. This was my first experience with MATLAB.
-  </li>
-  <li>
     <a href="https://github.com/jackitaliano/HydroponiKs" target="_blank" rel="noopener   noreferrer"><i>HydroponiKs</i></a>: <br/>
     I wrote the entirety of the software for my Engineering 1182 class design project. This was my first experience with Python GUIs (Tkinter)
   </i>
+  <li>
+    <a href="https://github.com/jackitaliano/Battleship" target="_blank" rel="noopener   noreferrer"><i>Battleship</i></a>: <br/>
+    I wrote the entirety of our project for my Engineering 1181 class and received the highest marks of any team in our course. This was my first experience with MATLAB.
+  </li>
 </ul>
 
 **Personal**
