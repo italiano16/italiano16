@@ -26,7 +26,7 @@ We will continue to participate in future Hackathons/Makeathons and hope to win 
 <ul>
   <li>
     <a href="https://github.com/jackitaliano/HydroponiKs" target="_blank" rel="noopener   noreferrer"><i>HydroponiKs</i></a>: <br/>
-    I wrote the entirety of the software for my Engineering 1182 class design project. This was my first experience with Python GUIs (Tkinter)
+    I wrote the entirety of the software for my Engineering 1182 class design project, and our project was chosen as one of the groups to represent our class at the OSU Design Showcase. This was my first experience with Python GUIs (Tkinter)
   </i>
   <li>
     <a href="https://github.com/jackitaliano/Battleship" target="_blank" rel="noopener   noreferrer"><i>Battleship</i></a>: <br/>
