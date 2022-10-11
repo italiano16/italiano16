@@ -1,7 +1,7 @@
 # About Me
 </p>
-  I'm Jack Italiano, a CSE Student at The Ohio State University (2021-2024 anticipated). <br />
-  I enjoy participating in hackathons, competitive programming competitions, learning new programming concepts, and apply everything I learn in my own projects.
+  I'm Jack Italiano, a CSE Student at The Ohio State University (2021-2024 anticipated). <br /><br />
+  I enjoy participating in hackathons, competitive programming competitions, learning new programming concepts, and apply everything I learn in my own projects.<br /><br />
 
   My repositories include code from Hackathons, Makeathons, course projects, and personal projects.
 </p>
