@@ -8,7 +8,13 @@
 
 # My Projects
 **Hackathons**
-<ul>
+<ol>
+  <li>
+  <b><a href="https://github.com/jackitaliano/Make23" target="_blank" rel="noopener noreferrer">Smart Notes</a> - The Ohio State Make OH/IO competition (2023):</b>
+  <ul>
+    This project is by far my most useful, educational, and involved project yet. I implemented the backend framework using Django, frontend using React, and all operating on a REST Api. I have used React in some compacity previously, but this project has truly evolved my web framework experience in all three. My team and I are continuing to work on this project to deliver a complete product that can be used at colleges across the country.
+  </ul> 
+  </li>
   <li>
   <b><a href="https://github.com/rahulmedicharla/HackOhio2022" target="_blank" rel="noopener noreferrer">Audio Studio Code</a> - 5th place out of 1,000 participants at The Ohio State Hack OH/IO competition (2022):</b>
   <ul>
@@ -29,7 +35,7 @@
     I had no previous experience in Python and limited experience with JavaScript or any kind of data file (csv, json,  etc.). Everything done in this project, I learned within the 24 hour time frame of the competition.
     </ul>
   </li>
-</ul>
+</ol>
 
 We will continue to participate in future Hackathons/Makeathons and hope to win next time.
 
@@ -51,5 +57,5 @@ We will continue to participate in future Hackathons/Makeathons and hope to win 
 
 **Personal**
 <p>
-  My other projects are learning experiences for myself including games and ai.
+  My other projects are learning experiences for myself including web apps, games, and ai.
 </p>
