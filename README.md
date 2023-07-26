@@ -42,11 +42,17 @@ We will continue to participate in future Hackathons/Makeathons and hope to win 
 **Course Projects**
 <ul>
   <li>
+    <b><a href="https://github.com/jackitaliano/LegendOfZelda" target="_blank" rel="noopener   noreferrer"><i>The Legend Of Zelda</i></a> - semester long project course for game development:</b>
+    <ul>
+    I worked on a team of four to design and write the software for a 2D game in C# using the XNA and Monogame frameworks. We chose to make the NES version of The Legend of Zelda. We followed agile processes, decided on and implemented design patterns to implement the necessary functionality, and made a great game receiving an A for the project.
+    </ul>
+  </li>
+  <li>
     <b><a href="https://github.com/jackitaliano/HydroponiKs" target="_blank" rel="noopener   noreferrer"><i>HydroponiKs</i></a> - selected to present at The Ohio State Engineering Design Showcase:</b>
     <ul>
     I wrote the entirety of the software for my Engineering 1182 class design project, and our project was chosen as one of the groups to represent our class at the OSU Design Showcase. This was my first experience with Python GUIs (Tkinter)
     </ul>
-  </i>
+  </li>
   <li>
     <b><a href="https://github.com/jackitaliano/Battleship" target="_blank" rel="noopener   noreferrer"><i>Battleship</i></a> - Engineering 1182 class project:</b>
   <ul>
