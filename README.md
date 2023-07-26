@@ -52,6 +52,6 @@ I wrote the entirety of the software for my Engineering 1182 class design projec
 
 I wrote the entirety of our project for my Engineering 1181 class and received the highest marks of any team in our class. This was my first experience with MATLAB.
 
-## Personal
+## Personal Projects
 
 My other projects are learning experiences for myself including web apps, games, and ai. They have recently been more focused on new LLMs like ChatGPT, which are a lot of fun to try!
