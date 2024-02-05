@@ -6,9 +6,13 @@ I enjoy participating in hackathons, competitive programming competitions, learn
 My repositories include code from Hackathons, Makeathons, course projects, and personal projects.
 
 ## My Work Experience
+- **NASA Glenn Research**
+
+I am currently (Spring 2024) interning at NASA Glenn Research Center as an AI and biomimicry intern. My main role is contributing to the development of the open-source [PeTaL Project](https://github.com/nasa-petal).
+
 - **State Farm**
 
-I worked full-time Summer 2023 with State Farm as a Software Engineering Intern and gained valuable experience with AWS, Terraform, Node.js, and React. I will be returning to work part-time with them this fall (Fall 2023).
+I worked full-time Summer 2023 with State Farm as a Software Engineering Intern and gained valuable experience with AWS, Terraform, Node.js, and React. I continued with the same team, and I worked part-time through Fall 2023.
 
 - **Holocron Technologies**
 
