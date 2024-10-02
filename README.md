@@ -10,7 +10,7 @@ Check out my portfolio site [jackitaliano.com](https://jackitaliano.com), which 
 ## My Work Experience
 - **NASA Glenn Research**
 
-  I am currently (Spring 2024) interning at NASA Glenn Research Center as an AI and biomimicry intern. My main role is contributing to the development of the open-source [PeTaL Project](https://github.com/nasa-petal).
+  I interned at NASA Glenn Research Center as an AI and biomimicry intern for Spring and Summer (Jan - Aug) 2024. My main role was contributing to the development of the open-source [PeTaL Project](https://github.com/nasa-petal).
 
 - **State Farm**
 
