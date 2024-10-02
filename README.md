@@ -1,9 +1,11 @@
 # About Me
-I'm Jack Italiano, a CSE Student at The Ohio State University (2021-2024 *anticipated*).
+I'm Jack Italiano, a CSE Student at The Ohio State University graduating in December of 2024.
 
 I enjoy participating in hackathons, competitive programming competitions, learning new programming concepts, and apply everything I learn in my own projects.
 
 My repositories include code from Hackathons, Makeathons, course projects, and personal projects.
+
+Check out my portfolio site [jackitaliano.com](https://jackitaliano.com), which is still a WIP, but interesting none the less. I originally was making something that might fit more in with what a portfolio site "should" be, but found it pretty lackluster and more of the same. I started with the idea of it being a terminal environment, which is more representative of my workflow, but slowly morphed it into a "desktop" experience. 
 
 ## My Work Experience
 - **NASA Glenn Research**
