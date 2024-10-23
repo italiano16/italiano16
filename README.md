@@ -23,6 +23,9 @@ Check out my portfolio site [jackitaliano.com](https://jackitaliano.com), which 
 
 # My Projects
 ## Hackathons
+- [Virtual Therapy](https://github.com/jackitaliano/Hack24) - **The Ohio State Hack OH/IO competition (2024):**
+This project was an entirely new experience from our previous hack-a-thon projects. This time we focused on delivering something new, challenging, and technically complex. We delivered a single-camera markerless motion capture system to track both therapists' and patients' movement in a physical therapy setting. This would allow for therapists to simply record an excerise, turn it into a 3D model that animates and presents a new perspective to the patient, and then track how well the patient performs that excercise. Here the technology was the focus rather than the presentation.
+
 - [Stack Farm](https://github.com/Chaseforyourlife/HackDay2023) - **Internal Stack Overflow at State Farm Hack Day (2023):**
 
   State Farm, who I interned with full-time for Summer 2023 and part-time Fall 2023, hosts a Hack Day similar to the ones I've participated in at The Ohio State University. I participated with a group of fellow interns to create an internal Stack Overflow where employees can post questions they otherwise couldn't post on Stack Overflow due to it's more sensitive/internal nature. I wrote most of the frontend UI in React, which was a great learning experience because it's the most React I've written in a long time!
